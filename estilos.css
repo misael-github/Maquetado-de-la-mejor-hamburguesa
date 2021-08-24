@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  background-color: red;
+  text-align: center;
+  color: #fff;
+  margin: 10px;
+  font-weight: 500;
+}
+
+p {
+  margin-bottom: 0;
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
+}
+.container-burger {
+  width: 90vw;
+  max-width: 450px;
+  margin: auto;
+  margin-top: 20px;
+  box-sizing: border-box;
+}
+
+.pan1 {
+  width: 90%;
+  background-color: rgb(238, 224, 148);
+  padding: 20px 0px;
+  margin: 0px auto;
+  height: 30px;
+  border-radius: 60px 60px 0 0;
+}
+
+.pan2 {
+  width: 90%;
+  background-color: rgb(238, 224, 148);
+  padding: 20px 0px;
+  margin: 0px auto;
+  height: 20px;
+  border-radius: 20px 20px 35px 35px;
+}
+
+.amarillo {
+  width: 100%;
+  height: 25px;
+  margin: 1px auto;
+  background-color: rgb(245, 229, 8);
+  border-radius: 3px;
+}
+
+.rojo {
+  width: 90%;
+  height: 35px;
+  margin: 0px auto;
+  background-color: rgb(209, 21, 14);
+}
+
+.violeta {
+  width: 70%;
+  margin: 0px auto;
+  background-color: rgb(180, 25, 180);
+  height: 20px;
+}
+
+.content-circulos {
+  width: 100%;
+  text-align: center;
+  margin: auto;
+  box-sizing: border-box;
+  width: 250px;
+}
+
+.circulo1 {
+  border-radius: 75px;
+  background-color: rgb(70, 41, 4);
+  width: 75px;
+  height: 75px;
+  display: inline-block;
+}
+.circulo2 {
+  border-radius: 75px;
+  background-color: rgb(70, 41, 4);
+  width: 75px;
+  height: 75px;
+  display: inline-block;
+  margin-bottom: 0;
+}
+.circulo3 {
+  border-radius: 75px;
+  background-color: rgb(70, 41, 4);
+  width: 75px;
+  height: 75px;
+  display: inline-block;
+}
+
+.verde {
+  width: 85%;
+  height: 45px;
+  background-color: rgb(72, 212, 72);
+  margin: 0px auto;
+  border-radius: 0 0 60px 60px;
+}
+.carne {
+  width: 90%;
+  height: 40px;
+  background-color: #b14701;
+  margin: 1px auto;
+  border-radius: 15px;
+}
+.gris {
+  width: 100%;
+  height: 25px;
+  background-color: rgb(104, 95, 95);
+  margin: 0px auto;
+  margin-bottom: 10px;
+  border-bottom: 25px;
+  border-radius: 0 0 40px 40px;
+}
